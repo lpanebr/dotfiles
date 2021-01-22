@@ -1,0 +1,2 @@
+super + e ; {t,p}
+    {'google-chrome --profile-directory="Default" --app="https://mail.google.com/"','google-chrome --profile-directory="Profile 1" --app="https://mail.google.com/"'}
